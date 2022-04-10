@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Peking University - Beijing
-- 🌱 I’m currently learning Compiler || Auto Vectorization / Polyhedral Compilation
+- 🔭 I’m currently a student in Peking University - Beijing
+- 🌱 I’m currently learning Database Systems
 - 📫 How to reach me: me@jeffreywang.cn / jf.wang@pku.edu.cn
 - ℹ️ Blog website: https://wjfjfm.github.io
